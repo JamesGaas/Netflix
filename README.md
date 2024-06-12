@@ -1,4 +1,4 @@
 # Netflix
-Investigating Netflix Movies
+Investigating Netflix Movies a dataset from DataCamp
 
 A project from datacamp
